@@ -1,1 +1,2 @@
 # VECC-project
+This is the initial software architecture and module-level implementation skeleton. The reconstruction operator A, tomography geometry, uncertainty-map generation, SSIM loss, attention gates, and dataset loaders will be finalized after we receive the exact dataset specification.
